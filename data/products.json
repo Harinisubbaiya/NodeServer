@@ -1,0 +1,106 @@
+[
+    {
+        "name": "DELL LAPTOP",
+        "price": 19000 ,
+        "description": "DELL INSPRION 2345",
+        "ratings": 3.5,
+        "images":[
+            {
+                "img": "PRODUCT_1234RT.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "DELL",
+        "stock": 30,
+        "numOfReviews": 12,
+        "reviews":[]
+
+    },
+    {
+        "name": "POCO M4 PRO",
+        "price": 13000 ,
+        "description": "6GB ROM/64GB RAM",
+        "ratings": 3.5,
+        "images":[
+            {
+                "img": "PRODUCT_12376ERRT.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "MI",
+        "stock": 20,
+        "numOfReviews": 2,
+        "reviews":[]
+
+    },
+    {
+        "name": "HAIER 50' LED TV",
+        "price": 50000 ,
+        "description": "LED TV",
+        "ratings": 4.5,
+        "images":[
+            {
+                "img": "PRODUCT_1ERRT.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "HAIER",
+        "stock": 20,
+        "numOfReviews": 52,
+        "reviews":[]
+
+    },
+    {
+        "name": "CROCS CLOGS",
+        "price": 5000 ,
+        "description": "CROCS UNISEX CLOGS",
+        "ratings": 4.5,
+        "images":[
+            {
+                "img": "PRODUCT_1ERRT.jpg"
+            }
+        ],
+        "category": "FootWear",
+        "seller": "CROCS",
+        "stock": 45,
+        "numOfReviews": 50,
+        "reviews":[]
+
+    },
+    {
+        "name": "FLOOR MAT",
+        "price": 500,
+        "description": "FLOOR MAT SIZE 7*12'",
+        "ratings": 4.5,
+        "images":[
+            {
+                "img": "PRODUCT_1.jpg"
+            }
+        ],
+        "category": "Home decors",
+        "seller": "IKEA",
+        "stock": 45,
+        "numOfReviews": 50,
+        "reviews":[]
+
+    },
+    {
+        "name": "LIPSTICK",
+        "price": 1800,
+        "description": "LIPSTICK FOR WOMEN-SHADE:CHERRY RED",
+        "ratings": 4.5,
+        "images":[
+            {
+                "img": "COSMETICS_45TY.jpg"
+            }
+        ],
+        "category": "cosmetics",
+        "seller": "MAYBELLENE",
+        "stock": 10,
+        "numOfReviews": 5,
+        "reviews":[]
+
+    }
+    
+
+]
